@@ -1,0 +1,23 @@
+﻿h1 {
+    color:darkred;
+    font-size:50px;
+}
+
+body {
+    margin:0px;
+    background-color:white;
+    text-align:center;
+}
+p {font-size:20px}
+ol {font-size: 20px}
+ul {font-size: 20px}
+header {background-color:floralwhite;}
+    header img {border-radius: 50px}
+main {background-color:cornsilk}
+main img {
+    border-radius: 30px;
+    width: 400px;
+    height: 300px;
+}
+footer {background-color:yellow}
+header h1 {color:darkolivegreen}
