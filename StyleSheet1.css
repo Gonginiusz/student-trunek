@@ -1,0 +1,28 @@
+﻿h1 {
+    font-size: 30px;
+    color: maroon;
+}
+
+h2 {
+    color: royalblue;
+}
+
+h2 {
+    color: forestgreen;
+}
+
+.potężny {
+    font-size: 45px
+}
+
+.nogger {
+    color: black
+}
+
+.potężny.nogger {
+    text-transform: uppercase
+}
+
+p span {
+    color: lightcyan
+}
